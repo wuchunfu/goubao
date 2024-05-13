@@ -2,7 +2,7 @@ module github.com/xen0n/goubao
 
 go 1.19
 
-require golang.org/x/tools v0.20.0
+require golang.org/x/tools v0.21.0
 
 require (
 	golang.org/x/mod v0.17.0 // indirect
