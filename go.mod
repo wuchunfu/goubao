@@ -1,6 +1,6 @@
 module github.com/xen0n/goubao
 
-go 1.19
+go 1.22
 
 require golang.org/x/tools v0.24.0
 
